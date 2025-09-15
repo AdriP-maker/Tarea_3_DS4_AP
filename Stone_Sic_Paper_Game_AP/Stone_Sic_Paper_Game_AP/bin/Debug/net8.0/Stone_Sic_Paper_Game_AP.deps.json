@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Stone_Sic_Paper_Game_AP/1.0.0": {
+        "runtime": {
+          "Stone_Sic_Paper_Game_AP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stone_Sic_Paper_Game_AP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
