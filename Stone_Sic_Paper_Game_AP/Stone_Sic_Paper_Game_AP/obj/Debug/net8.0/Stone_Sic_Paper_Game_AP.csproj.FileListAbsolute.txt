@@ -1,0 +1,14 @@
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\bin\Debug\net8.0\Stone_Sic_Paper_Game_AP.exe
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\bin\Debug\net8.0\Stone_Sic_Paper_Game_AP.deps.json
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\bin\Debug\net8.0\Stone_Sic_Paper_Game_AP.runtimeconfig.json
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\bin\Debug\net8.0\Stone_Sic_Paper_Game_AP.dll
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\bin\Debug\net8.0\Stone_Sic_Paper_Game_AP.pdb
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\obj\Debug\net8.0\Stone_Sic_Paper_Game_AP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\obj\Debug\net8.0\Stone_Sic_Paper_Game_AP.AssemblyInfoInputs.cache
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\obj\Debug\net8.0\Stone_Sic_Paper_Game_AP.AssemblyInfo.cs
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\obj\Debug\net8.0\Stone_Sic_Paper_Game_AP.csproj.CoreCompileInputs.cache
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\obj\Debug\net8.0\Stone_Sic_Paper_Game_AP.dll
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\obj\Debug\net8.0\refint\Stone_Sic_Paper_Game_AP.dll
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\obj\Debug\net8.0\Stone_Sic_Paper_Game_AP.pdb
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\obj\Debug\net8.0\Stone_Sic_Paper_Game_AP.genruntimeconfig.cache
+C:\Users\Mipro\source\repos\Stone_Sic_Paper_Game_AP\Stone_Sic_Paper_Game_AP\obj\Debug\net8.0\ref\Stone_Sic_Paper_Game_AP.dll
